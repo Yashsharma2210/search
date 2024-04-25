@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/search_bar_reactjs/static/css/main.fc5c2c69.css",
+    "main.js": "/search_bar_reactjs/static/js/main.5504c9d3.js",
+    "index.html": "/search_bar_reactjs/index.html",
+    "main.fc5c2c69.css.map": "/search_bar_reactjs/static/css/main.fc5c2c69.css.map",
+    "main.5504c9d3.js.map": "/search_bar_reactjs/static/js/main.5504c9d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.5504c9d3.js"
+  ]
+}

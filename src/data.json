@@ -1,0 +1,430 @@
+
+{
+    "india": {
+      "Andhra Pradesh": [
+        "Visakhapatnam",
+        "Vijayawada"
+      ],
+      "Arunachal Pradesh": [
+        "Itanagar"
+      ],
+      "Assam": [
+        "Guwahati",
+        "Dispur"
+      ],
+      "Bihar": [
+        "Patna"
+      ],
+      "Chhattisgarh": [
+        "Raipur"
+      ],
+      "Goa": [
+        "Panaji"
+      ],
+      "Gujarat": [
+        "Ahmedabad",
+        "Surat"
+      ],
+      "Haryana": [
+        "Chandigarh",
+        "Gurgaon"
+      ],
+      "Himachal Pradesh": [
+        "Shimla",
+        "Manali"
+      ],
+      "Jharkhand": [
+        "Ranchi"
+      ],
+      "Karnataka": [
+        "Bangalore",
+        "Mysore"
+      ],
+      "Kerala": [
+        "Thiruvananthapuram",
+        "Kochi"
+      ],
+      "Madhya Pradesh": [
+        "Bhopal",
+        "Indore"
+      ],
+      "Maharashtra": [
+        "Mumbai",
+        "Pune"
+      ],
+      "Manipur": [
+        "Imphal"
+      ],
+      "Meghalaya": [
+        "Shillong"
+      ],
+      "Mizoram": [
+        "Aizawl"
+      ],
+      "Nagaland": [
+        "Kohima"
+      ],
+      "Odisha": [
+        "Bhubaneswar",
+        "Cuttack"
+      ],
+      "Punjab": [
+        "Chandigarh",
+        "Amritsar"
+      ],
+      "Rajasthan": [
+        "Jaipur",
+        "Udaipur"
+      ],
+      "Sikkim": [
+        "Gangtok"
+      ],
+      "Tamil Nadu": [
+        "Chennai",
+        "Coimbatore"
+      ],
+      "Telangana": [
+        "Hyderabad"
+      ],
+      "Tripura": [
+        "Agartala"
+      ],
+      "Uttar Pradesh": [
+        "Lucknow",
+        "Agra"
+      ],
+      "Uttarakhand": [
+        "Dehradun",
+        "Nainital"
+      ],
+      "West Bengal": [
+        "Kolkata",
+        "Darjeeling"
+      ]
+    },
+    "dubai": {
+      "Downtown Dubai": [
+        "Burj Khalifa",
+        "Dubai Mall"
+      ],
+      "Dubai Marina": [
+        "Marina Walk",
+        "JBR"
+      ],
+      "Jumeirah Beach Residence (JBR)": [
+        "The Beach"
+      ],
+      "Palm Jumeirah": [
+        "Atlantis The Palm",
+        "The Pointe"
+      ],
+      "Bur Dubai": [
+        "Al Fahidi",
+        "Meena Bazaar"
+      ],
+      "Deira": [
+        "Gold Souk",
+        "Spice Souk"
+      ],
+      "Al Barsha": [
+        "Mall of the Emirates"
+      ],
+      "Business Bay": [
+        "Bay Avenue"
+      ],
+      "Jumeirah": [
+        "Jumeirah Mosque",
+        "Kite Beach"
+      ],
+      "Sheikh Zayed Road": [
+        "DIFC",
+        "Emirates Towers"
+      ],
+      "Dubai Silicon Oasis": [
+        "DSO"
+      ],
+      "International City": [
+        "Dragon Mart"
+      ],
+      "Dubai Sports City": [
+        "Dubai Cricket Stadium"
+      ],
+      "Motor City": [
+        "Autodrome"
+      ],
+      "Discovery Gardens": [],
+      "JLT (Jumeirah Lake Towers)": [],
+      "Dubai Festival City": [],
+      "Mirdif": [],
+      "Arabian Ranches": [],
+      "Greens": [],
+      "The Meadows": [],
+      "The Springs": [],
+      "Dubai Healthcare City": [],
+      "Dubai Media City": [],
+      "Dubai Internet City": []
+    },
+    "turkey": {
+      "Adana": [
+        "Seyhan",
+        "YÃ¼reÄŸir"
+      ],
+      "AdÄ±yaman": [
+        "AdÄ±yaman Center"
+      ],
+      "Afyonkarahisar": [
+        "Afyon Center"
+      ],
+      "AÄŸrÄ±": [
+        "AÄŸrÄ± Center"
+      ],
+      "Aksaray": [
+        "Aksaray Center"
+      ],
+      "Amasya": [
+        "Amasya Center"
+      ],
+      "Ankara": [
+        "KÄ±zÄ±lay",
+        "Ã‡ankaya"
+      ],
+      "Antalya": [
+        "MuratpaÅŸa",
+        "KonyaaltÄ±"
+      ],
+      "Ardahan": [
+        "Ardahan Center"
+      ],
+      "Artvin": [
+        "Artvin Center"
+      ],
+      "AydÄ±n": [
+        "AydÄ±n Center"
+      ],
+      "BalÄ±kesir": [
+        "BalÄ±kesir Center"
+      ],
+      "BartÄ±n": [
+        "BartÄ±n Center"
+      ],
+      "Batman": [
+        "Batman Center"
+      ],
+      "Bayburt": [
+        "Bayburt Center"
+      ],
+      "Bilecik": [
+        "Bilecik Center"
+      ],
+      "BingÃ¶l": [
+        "BingÃ¶l Center"
+      ],
+      "Bitlis": [
+        "Bitlis Center"
+      ],
+      "Bolu": [
+        "Bolu Center"
+      ],
+      "Burdur": [
+        "Burdur Center"
+      ],
+      "Bursa": [
+        "Osmangazi",
+        "NilÃ¼fer"
+      ],
+      "Ã‡anakkale": [
+        "Ã‡anakkale Center"
+      ],
+      "Ã‡ankÄ±rÄ±": [
+        "Ã‡ankÄ±rÄ± Center"
+      ],
+      "Ã‡orum": [
+        "Ã‡orum Center"
+      ],
+      "Denizli": [
+        "Denizli Center"
+      ],
+      "DiyarbakÄ±r": [
+        "DiyarbakÄ±r Center"
+      ],
+      "DÃ¼zce": [
+        "DÃ¼zce Center"
+      ],
+      "Edirne": [
+        "Edirne Center"
+      ],
+      "ElazÄ±ÄŸ": [
+        "ElazÄ±ÄŸ Center"
+      ],
+      "Erzincan": [
+        "Erzincan Center"
+      ],
+      "Erzurum": [
+        "Erzurum Center"
+      ],
+      "EskiÅŸehir": [
+        "EskiÅŸehir Center"
+      ],
+      "Gaziantep": [
+        "Åžahinbey",
+        "Åžehitkamil"
+      ],
+      "Giresun": [
+        "Giresun Center"
+      ],
+      "GÃ¼mÃ¼ÅŸhane": [
+        "GÃ¼mÃ¼ÅŸhane Center"
+      ],
+      "Hakkari": [
+        "Hakkari Center"
+      ],
+      "Hatay": [
+        "Antakya",
+        "Defne"
+      ],
+      "IÄŸdÄ±r": [
+        "IÄŸdÄ±r Center"
+      ],
+      "Isparta": [
+        "Isparta Center"
+      ],
+      "Ä°stanbul": [
+        "Fatih",
+        "BeÅŸiktaÅŸ"
+      ],
+      "Ä°zmir": [
+        "Konak",
+        "Bornova"
+      ],
+      "KahramanmaraÅŸ": [
+        "OnikiÅŸubat",
+        "DulkadiroÄŸlu"
+      ],
+      "KarabÃ¼k": [
+        "KarabÃ¼k Center"
+      ],
+      "Karaman": [
+        "Karaman Center"
+      ],
+      "Kars": [
+        "Kars Center"
+      ],
+      "Kastamonu": [
+        "Kastamonu Center"
+      ],
+      "Kayseri": [
+        "Kocasinan",
+        "Melikgazi"
+      ],
+      "KÄ±rÄ±kkale": [
+        "KÄ±rÄ±kkale Center"
+      ],
+      "KÄ±rklareli": [
+        "KÄ±rklareli Center"
+      ],
+      "KÄ±rÅŸehir": [
+        "KÄ±rÅŸehir Center"
+      ],
+      "Kilis": [
+        "Kilis Center"
+      ],
+      "Kocaeli": [
+        "Ä°zmit",
+        "Gebze"
+      ],
+      "Konya": [
+        "SelÃ§uklu",
+        "Karatay"
+      ],
+      "KÃ¼tahya": [
+        "KÃ¼tahya Center"
+      ],
+      "Malatya": [
+        "Malatya Center"
+      ],
+      "Manisa": [
+        "Manisa Center"
+      ],
+      "Mardin": [
+        "Mardin Center"
+      ],
+      "Mersin": [
+        "YeniÅŸehir",
+        "Mezitli"
+      ],
+      "MuÄŸla": [
+        "Bodrum",
+        "Marmaris"
+      ],
+      "MuÅŸ": [
+        "MuÅŸ Center"
+      ],
+      "NevÅŸehir": [
+        "NevÅŸehir Center"
+      ],
+      "NiÄŸde": [
+        "NiÄŸde Center"
+      ],
+      "Ordu": [
+        "Ordu Center"
+      ],
+      "Osmaniye": [
+        "Osmaniye Center"
+      ],
+      "Rize": [
+        "Rize Center"
+      ],
+      "Sakarya": [
+        "AdapazarÄ±",
+        "Serdivan"
+      ],
+      "Samsun": [
+        "Ä°lkadÄ±m",
+        "Atakum"
+      ],
+      "Siirt": [
+        "Siirt Center"
+      ],
+      "Sinop": [
+        "Sinop Center"
+      ],
+      "Sivas": [
+        "Sivas Center"
+      ],
+      "ÅžanlÄ±urfa": [
+        "EyyÃ¼biye",
+        "Haliliye"
+      ],
+      "ÅžÄ±rnak": [
+        "ÅžÄ±rnak Center"
+      ],
+      "TekirdaÄŸ": [
+        "TekirdaÄŸ Center"
+      ],
+      "Tokat": [
+        "Tokat Center"
+      ],
+      "Trabzon": [
+        "Ortahisar",
+        "AkÃ§aabat"
+      ],
+      "Tunceli": [
+        "Tunceli Center"
+      ],
+      "UÅŸak": [
+        "UÅŸak Center"
+      ],
+      "Van": [
+        "Van Center"
+      ],
+      "Yalova": [
+        "Yalova Center"
+      ],
+      "Yozgat": [
+        "Yozgat Center"
+      ],
+      "Zonguldak": [
+        "Zonguldak Center"
+      ]
+    }
+  }
